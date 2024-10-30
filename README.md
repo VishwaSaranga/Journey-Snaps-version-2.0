@@ -10,11 +10,11 @@ Journey Snaps is built to provide a visually engaging and user-friendly space fo
 
 ⭕ Key Features
 
-✅User Profile and Login System
-✅Cart and Checkout System: Completed with a PDF bill generator for easy transaction records. (Using FPDF library)
-✅Admin Page: Admins can manage user accounts, send replies to user messages that come from the Contact Us page, and view invoices that are issued from the website.
-✅ Form Validations and Notifications
-✅Responsive Design
+✅User Profile and Login System <br>
+✅Cart and Checkout System: Completed with a PDF bill generator for easy transaction records. (Using FPDF library) <br>
+✅Admin Page: Admins can manage user accounts, send replies to user messages that come from the Contact Us page, and view invoices that are issued from the website. <br>
+✅ Form Validations and Notifications <br>
+✅Responsive Design <br>
 
 ⭕ Technical Skills Highlight
 
@@ -24,15 +24,16 @@ Also, I used the fpdf library to generate invoices.
 
 ⭕ Learning Outcomes
 
-◾Web Design Principles
-◾Backend Development with PHP
-◾Database Management
-◾Project file organization and maintain good code structure
-◾E-commerce Functionality
-◾Validation and Security
+◾Web Design Principles <br>
+◾Backend Development with PHP <br>
+◾Database Management <br>
+◾Project file organization and maintain good code structure <br>
+◾E-commerce Functionality <br>
+◾Validation and Security <br>
 
 ITBNM-2211-0124 | W.V.S. Dissanayaka  
 Horizon Campus | IT Faculty (NMC Intake 11)
+Designer and Developer | Journey Snaps
 
 🔗Demonstration Video (version 2.0): <a href="https://youtu.be/ORuPvr8Tz34">Journey Snaps 2.0</a><br>
 🔗JourneySnaps version 1.0 Link (Frontend only): <a href="https://wvsdissanayaka-itbnm-2211-0124.netlify.app/">Journey Snaps 1.0</a>

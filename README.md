@@ -2,7 +2,7 @@
 
 Journey Snaps | version 2.0 | 29th Oct 2024 
 
-✅This project is an e-commerce website for travel and wildlife photography. This project was done as an assignment for the subject Web Systems and Technologies (IT22013), which I learned in the second semester of my second year at the university. 
+✅ This project is an e-commerce website for travel and wildlife photography. This project was done as an assignment for the subject Web Systems and Technologies (IT22013), which I learned in the second semester of my second year at the university. 
 
 ⭕ Purpose and Goals
 
@@ -10,11 +10,11 @@ Journey Snaps is built to provide a visually engaging and user-friendly space fo
 
 ⭕ Key Features
 
-✅User Profile and Login System <br>
-✅Cart and Checkout System: Completed with a PDF bill generator for easy transaction records. (Using FPDF library) <br>
-✅Admin Page: Admins can manage user accounts, send replies to user messages that come from the Contact Us page, and view invoices that are issued from the website. <br>
+✅ User Profile and Login System <br>
+✅ Cart and Checkout System: Completed with a PDF bill generator for easy transaction records. (Using FPDF library) <br>
+✅ Admin Page: Admins can manage user accounts, send replies to user messages that come from the Contact Us page, and view invoices that are issued from the website. <br>
 ✅ Form Validations and Notifications <br>
-✅Responsive Design <br>
+✅ Responsive Design <br>
 
 ⭕ Technical Skills Highlight
 

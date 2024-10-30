@@ -32,8 +32,8 @@ Also, I used the fpdf library to generate invoices.
 ◾Validation and Security <br>
 
 ITBNM-2211-0124 | W.V.S. Dissanayaka  
+Designer and Developer | Journey Snaps <br>
 Horizon Campus | IT Faculty (NMC Intake 11)
-Designer and Developer | Journey Snaps
 
 🔗Demonstration Video (version 2.0): <a href="https://youtu.be/ORuPvr8Tz34">Journey Snaps 2.0</a><br>
 🔗JourneySnaps version 1.0 Link (Frontend only): <a href="https://wvsdissanayaka-itbnm-2211-0124.netlify.app/">Journey Snaps 1.0</a>
